@@ -1,4 +1,4 @@
-local Base = "https://raw.githubusercontent.com/BOKFSSSAAAAAASSE/random/main/TextureConfigs/"
+local Base = "https://raw.githubusercontent.com/BOKFSSSAAAAAASSE/random/main/TextureConfigs/Loader.lua"
 
 local Files = {
 	"Seek",

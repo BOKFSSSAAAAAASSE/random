@@ -2,9 +2,7 @@ local Base = "https://raw.githubusercontent.com/BOKFSSSAAAAAASSE/random/main/Tex
 
 local Files = {
 	"Seek",
-	"Rush",
-	"Ambush",
-	"Figure"
+	"FoundationSeek"
 }
 
 local Textures = {}
